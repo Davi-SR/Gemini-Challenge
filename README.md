@@ -79,5 +79,7 @@ Feel free to open issues or submit pull requests with improvement suggestions!
 </details>
 👤 Autor | Author
 Davi Silva Ramos
+
 📅 Julho | July 2025
+
 📚 Em constante aprendizado | Always learning
