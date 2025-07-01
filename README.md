@@ -68,10 +68,11 @@ This project was developed as part of my Python data analysis studies. I applied
 git clone https://github.com/Davi-SR/Gemini-Challenge.git
 cd Gemini-Challenge
 jupyter notebook Projeto\ Gemini.ipynb
+```
+
 🤝 Contribuições | Contributions
 <details> <summary><strong>🇧🇷 Português</strong></summary>
 Sinta-se à vontade para abrir issues ou enviar pull requests com sugestões de melhoria!
-
 </details> <details> <summary><strong>🇺🇸 English</strong></summary>
 Feel free to open issues or submit pull requests with improvement suggestions!
 
